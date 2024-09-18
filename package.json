@@ -5,7 +5,7 @@
   "dependencies": {
     "@ethersproject/constants": "^5.4.0",
     "@ethersproject/providers": "^5.4.0",
-    "@fluuuid/nft-contracts": "silviopaganini/nft-contracts",
+    "@fluuuid/nft-contracts": "photoday0914/nft-contracts",
     "@sentry/react": "^6.8.0",
     "@sentry/tracing": "^6.8.0",
     "@testing-library/jest-dom": "^5.14.1",
